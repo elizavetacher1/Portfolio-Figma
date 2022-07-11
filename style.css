@@ -152,9 +152,7 @@ div>p {
 span {
     font-family: FontAwesome;
     margin: 5px; 
-    width: 26px;
-    height: 26px;
-   }
+  }
 
 .containerIcons {
     display: flex;
