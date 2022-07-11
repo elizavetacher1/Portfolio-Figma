@@ -28,10 +28,6 @@ a {
     font-weight: 400;
 }
 
-a:link { 
-    color: red; 
-}
-
 a:visited {
     color: #000000; 
 } 
