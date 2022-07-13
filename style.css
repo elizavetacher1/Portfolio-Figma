@@ -21,11 +21,10 @@ ul {
     padding: 23px 0 35px;
 }   
 
-
-
 a {
     text-decoration: none;
     font-weight: 400;
+    color: #000000; 
 }
 
 a:visited {
